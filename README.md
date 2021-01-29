@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+##使用CSS
 
-You can use the [editor on GitHub](https://github.com/chirfxbj/c--/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+C--是C++语言的衍生产品，它既可以进行C++语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计，且C--会立即将代码即使储存到一个公开的Git库供所有人使用和窃取。C--擅长面向对象程序设计的同时，还可以进行基于过程的程序设计，因而C--就适应的问题规模而论，大小由之。
+C--不仅拥有计算机低效率运行的不实用性特征，同时还致力于提高小规模程序的编程质量与程序设计语言的问题描述能力以及针对Git的共享系统。
 
 ### Markdown
 
